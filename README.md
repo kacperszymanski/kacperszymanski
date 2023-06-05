@@ -6,6 +6,9 @@
 
 <br/><a href="https://www.linkedin.com/in/kacperszymanski"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:akacperszymanski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+# 📌 Latest projects and samples:
+<li><a href="https://kdekubicki.com/">KDE Kubicki</a>- Company that provides engineering services, specializing in machine design, industrial automation, and stage design.</li>
+<li><a href="https://dubeltoowa.pl/">Dubeltoowa.pl/a>- Template for local club.</li>
 
 # 🔧 Technologies & Tools
 
