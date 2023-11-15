@@ -1,7 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Kacper and I'm a Full Stack Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+My name is Kacper, and I am a passionate Full Stack Engineer deeply immersed in JavaScript technologies. At the heart of my current endeavors is Web App Development. I'm engaged in building a web application for a company in the construction and demolition sector. Concurrently, I'm channeling my expertise into crafting a web app for officiating extreme sports.
 </div>
 
 <br/><a href="https://www.linkedin.com/in/kacperszymanski"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
