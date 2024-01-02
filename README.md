@@ -7,8 +7,8 @@ My name is Kacper, and I am a passionate Full Stack Engineer deeply immersed in 
 <br/><a href="https://www.linkedin.com/in/kacperszymanski"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:akacperszymanski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 # 📌 My latest freelancing projects and samples:
-<li><a href="https://judgemate.com/">JudgeMate</a></li>
-<li><a href="https://grupatree.app/">TreeAPP</a></li>
+<li><a href="https://judgemate.com/">JudgeMate</a>- JudgeMate is a modern sports officiating application that enables organizers and judges to easily manage events, participants, and the judging process. Our solution provides comprehensive tools for efficient competition conduct and result presentation.  The technology stack includes: JavaScript, Nextjs, React, Firebase, AWS(Kurento Media Server)</li>
+<li><a href="https://grupatree.app/">TreeAPP</a>web application for a company in the construction and demolition sector</li>
 <li><a href="https://kdekubicki.com/">KDE Kubicki</a>- Company that provides engineering services, specializing in machine design, industrial automation, and stage design. The technology stack includes: Typescript, VueJS, Vite, Firebase</li>
 <li><a href="https://dubeltoowa.pl/">Dubeltoowa.pl</a>- Template for local club. The technology stack includes:  JavaScript, VueJS, Bootstrap, Firebase</li>
 
