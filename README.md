@@ -131,4 +131,4 @@ My name is Kacper, and I am a passionate Full Stack Engineer deeply immersed in 
 
 
 <br/>
-![](https://komarev.com/ghpvc/?username=kacperszymanski)
+
