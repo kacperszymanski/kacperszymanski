@@ -129,13 +129,6 @@ My name is Kacper, and I am a passionate Full Stack Engineer deeply immersed in 
   </tr>
 </table>
 
-# 📈 Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=kacperszymanski&show_icons=true&theme=react&&hide_border=true"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=kacperszymanski&&theme=react&&hide_border=true"
-/>
 <br/>
 ![](https://komarev.com/ghpvc/?username=kacperszymanski)
